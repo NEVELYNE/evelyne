@@ -22,3 +22,5 @@ now you will be uploading to this branch not to your main branch inorder to avoi
 ####Then if I want your changes to merge with those I have loally, I do:-
 5. -git pull origin master
 
+### Image showing the steps in practice was attached
+

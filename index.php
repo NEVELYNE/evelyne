@@ -11,6 +11,10 @@
   </p>
   <p>He has also added somethings to the README.md file, please read through.</p>
 </div>
+
+<h1 class="text-center">He followed these steps to get me here</h1>
+
+<img src="assets/evescheckup.png" class="img-fluid p-3">
 </main>
 
 
